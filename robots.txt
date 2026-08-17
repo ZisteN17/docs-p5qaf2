@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-q94eht.salamduit.online/sitemap.xml
